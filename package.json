@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "projeto-1---modulo-4",
   "version": "1.0.0",
   "description": "",
@@ -16,8 +17,8 @@
     "url": "https://github.com/vinielelopes/projeto-1---modulo-4/issues"
   },
   "homepage": "https://github.com/vinielelopes/projeto-1---modulo-4#readme",
-  "type":"module",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "readline-sync": "^1.4.10"
   }
 }
